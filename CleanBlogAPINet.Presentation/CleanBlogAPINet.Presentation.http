@@ -1,0 +1,6 @@
+@CleanBlogAPINet.Presentation_HostAddress = http://localhost:5168
+
+GET {{CleanBlogAPINet.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
